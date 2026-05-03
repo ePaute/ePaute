@@ -1,5 +1,5 @@
 ---
-<img src="banner.png" style="width:100%; max-width:900px; display:block; margin:auto;" />
+<img src="bannerlarge.png"  />
 
 <p align="center">
 <a href="www.linkedin.com/in/epautec" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>

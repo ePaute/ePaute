@@ -1,5 +1,5 @@
 ---
-<img src="banner.png" style="width:100%; height:250px; object-fit:cover;" />
+<img src="banner.png" style="width:100%; max-width:900px; display:block; margin:auto;" />
 
 <p align="center">
 <a href="www.linkedin.com/in/epautec" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -10,7 +10,7 @@
 <p>🎓 <strong> - Proximo - Ingeniero en Ciencias de la Computacion. </strong></p>
 <p>🎭  Tengo varias aficiones y hobbies pero puedo encontrar mi lugar en el entorno donde este.</p>
 
-<p>✨ Mi <em>nick</em> suele ser Atlas, pero puedes hablarme con confianza si gustas</p>
+<p>✨ Mi <em>nick</em> suele ser Atlas, pero puedes hablarme como gustes, con confianza </p>
 
  ~ *English*
 
